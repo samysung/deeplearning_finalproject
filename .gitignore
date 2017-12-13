@@ -38,3 +38,5 @@ Thumbs.db
 
 # Deeplearning Final Project Files #
 Dataset_A/
+.ipynb_checkpoints/
+data/
